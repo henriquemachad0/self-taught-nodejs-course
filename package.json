@@ -1,0 +1,23 @@
+{
+  "name": "self-taught-nodejs-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henriquemachad0/self-taught-nodejs-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henriquemachad0/self-taught-nodejs-course/issues"
+  },
+  "homepage": "https://github.com/henriquemachad0/self-taught-nodejs-course#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^5.0.4"
+  }
+}
