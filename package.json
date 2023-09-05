@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/henriquemachad0/self-taught-nodejs-course#readme",
   "devDependencies": {
-    "git-commit-msg-linter": "^5.0.4"
+    "@types/node": "^20.5.9",
+    "git-commit-msg-linter": "^5.0.4",
+    "typescript": "^5.2.2"
   }
 }
